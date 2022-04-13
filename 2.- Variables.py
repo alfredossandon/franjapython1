@@ -1,0 +1,18 @@
+numero = 9
+print(numero)
+
+numero1 = 2
+numero2 = 3
+print(numero1 + numero2)
+
+numero = numero1 + numero2
+print(numero)
+
+numero = numero1 ** numero2
+print(numero)
+
+# LAS VARIABLES NO ME PUEDEN CONTENER ESPACIO EJ: MI VARIABLE
+# NO PUEDEN CONTENER CARACTERES ESPECIALES
+# SIEMPRE LAS VARIABLES EN MINUSCULAS
+# NUMERO RESULTANTE SER SEPARADO POR UN GUION BAJO _
+# CUANDO SE TIENE MAS DE UNA PALABRA SE SEPARA CON _
